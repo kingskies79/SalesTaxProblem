@@ -1,0 +1,16 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main",
+    "scripts": {
+        "test": "mocha test"
+    },
+    "author": "Fabio Leotta",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "mocha": "^6.0.2",
+        "unit": "^1.4.3-0",
+        "unit.js": "^2.1.0"
+    }
+}
