@@ -48,6 +48,9 @@ Write an application that prints out the receipt details for these shopping bask
 >Sales Taxes: 6.70  
 >Total: 74.68 
 
+### install
+npm install
+
 ### Mocha test
 npm test. 
 
